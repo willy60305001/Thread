@@ -1,0 +1,6 @@
+C:\Users\willy\Desktop\MVC5Book-master\Ch07-AsyncProgramming\Ch07\Ch07\bin\Debug\Ch07.exe.config
+C:\Users\willy\Desktop\MVC5Book-master\Ch07-AsyncProgramming\Ch07\Ch07\obj\Debug\Ch07.csprojResolveAssemblyReference.cache
+C:\Users\willy\Desktop\MVC5Book-master\Ch07-AsyncProgramming\Ch07\Ch07\bin\Debug\Ch07.exe
+C:\Users\willy\Desktop\MVC5Book-master\Ch07-AsyncProgramming\Ch07\Ch07\bin\Debug\Ch07.pdb
+C:\Users\willy\Desktop\MVC5Book-master\Ch07-AsyncProgramming\Ch07\Ch07\obj\Debug\Ch07.exe
+C:\Users\willy\Desktop\MVC5Book-master\Ch07-AsyncProgramming\Ch07\Ch07\obj\Debug\Ch07.pdb
